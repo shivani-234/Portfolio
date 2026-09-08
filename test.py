@@ -1,1 +1,3 @@
-print("test AI PR Reviewer")
+def divide(a,b):
+  return a/b
+print(divide(10,0))
